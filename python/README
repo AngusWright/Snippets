@@ -1,0 +1,11 @@
+#
+# Snippets written in python
+#
+
+This folder contains code snippets written in python; 
+the codes are sub-divided by python library, to make searching 
+more efficient. These sub-folders are: 
+
+- astropy: codes using astropy functions 
+- numpy: codes using numpy function 
+
